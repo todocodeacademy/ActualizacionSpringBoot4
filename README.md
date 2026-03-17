@@ -1,5 +1,5 @@
 # Master Class Actualización a Spring Boot 4 - TodoCode Academy
-Este repositorio contiene los ejercicios y materiales para la master class del curso **[Desarrollo de Apis en Java con Spring Boot](https://todocodeacademy.com/course/desarrollo-de-apis-con-spring-boot/)** ofrecido por la **[TodoCode Academy](https://todocodeacademy.com/)**.   
+Este repositorio contiene los ejercicios y materiales para la master class de actualización de versiones del curso **[Desarrollo de Apis en Java con Spring Boot](https://todocodeacademy.com/course/desarrollo-de-apis-con-spring-boot/)** ofrecido por la **[TodoCode Academy](https://todocodeacademy.com/)**.   
 donde se da a conocer cómo llevar a cabo una actualización de versión tanto de Java (JDK) como de Spring Boot. Todo el material es propiedad intelectual de la mencionada institución. En caso de utilizar para fines educativos, por favor hacer la correspondiente mención. No se permite su uso para fines comerciales sin previa autorización.
 
 ![Image](https://todocodeacademy.com/wp-content/uploads/2020/12/cropped-LogoConSombras-sinfondo-166x38.png)
